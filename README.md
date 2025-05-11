@@ -53,7 +53,7 @@ Here are key projects that highlight my capabilities and commitment to growth:
     <td width="50%" valign="top">
       <h3>🐍 Object-Oriented Programming (Python - NYCU)</h3>
       <p>
-        This repository showcases my coursework for the Object-Oriented Programming with Python course at NYCU. It includes practical exercises and contributions demonstrating my understanding of OOP principles and proficiency in Python.
+        This NYCU OOP Python repository showcases my <strong>Python and OOP skills</strong>, alongside my <strong>Git workflow experience</strong>. Lecture exercises were committed and submitted via Pull Requests from our group's folder for merging into the professor's main repository, building practical skills in version control and collaborative code integration.
       </p>
       <p><strong>Tech Stack:</strong> Python</p>
       <p>🔗 <a href="https://github.com/peienwu1216/oop-python-nycu">View Repository (Fork)</a></p>
@@ -66,13 +66,13 @@ Here are key projects that highlight my capabilities and commitment to growth:
 
 My academic journey at NYCU (EE) and self-driven projects have equipped me with the following skills:
 
-* **Programming Languages:** C++, Python, TypeScript, JavaScript
-* **Web Development:**
-    * **Frontend:** React, Next.js, HTML, CSS, Tailwind CSS
-    * **Content Management:** MDX, Contentlayer, Hexo
+* **Programming Languages:** C++, Python
 * **Software Engineering Concepts:** Object-Oriented Programming (OOP), Data Structures, Algorithms, Version Control (Git)
-* **Game Development Fundamentals:** C++ based game logic and mechanics.
 * **Tools & Platforms:** GitHub, Vercel, VS Code, Linux Environment (implied from coursework)
+* **Web Development:**
+    * **Frontend:** Next.js, HTML, CSS
+    * **Content Management:** MDX, Hexo
+* **Game Development Fundamentals:** C++ based game logic and mechanics.
 
 I am particularly interested in the intersection of efficient algorithms and practical software solutions. My experience with "資訊之芽培訓計畫算法班" (NTU's Sprout Training Program - Algorithm Class) and various C++/APCS training has solidified my foundation in **Algorithms and Data Structures**, which I actively apply and document in my blog projects.
 
@@ -82,9 +82,10 @@ I am particularly interested in the intersection of efficient algorithms and pra
 
 I am a firm believer in continuous learning and self-improvement. My activities reflect this:
 
-* Completed advanced training in C++ and Data Structures/Algorithms (NTU System Training courses).
 * Successfully completed two stages of NTU's "資訊之芽培訓計畫算法班".
 * Active participation in programming competitions (NPSC, YTP).
+* Completed advanced training in C++ and Data Structures/Algorithms (NTU System Training courses).
+* Lecturer for "建中資訊讀書會" (Information Study Group in CKHS), teaching Computational Geometry.
 * Experience in research and report writing (VPython simulations, 小論文競賽優等).
 * Proven ability to self-learn and apply new technologies (e.g., Next.js, Contentlayer, Manim for math animations).
 
