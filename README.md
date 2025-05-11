@@ -1,11 +1,5 @@
 # 👋 Hello, I'm Peien Wu (吳沛恩)
 
-<p align="center">
-  <a href="https://peienwu.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/gist/peienwu1216/your-gist-id-for-image/main/profile-banner-placeholder.png" alt="Peienwu - Main Portfolio/Blog" width="700"/>
-    </a>
-</p>
-
 I am a dedicated Electrical Engineering student at National Yang Ming Chiao Tung University (NYCU) with a strong passion for software engineering, particularly in **Game Development** and **Modern Web Technologies**. My approach to learning involves diving deep into concepts, applying them through hands-on projects, and sharing my findings.
 
 My primary online presence and established blog, featuring a collection of my technical articles, project showcases, and learning notes (including **Algorithms and Data Structures**), can be found at:
@@ -75,7 +69,7 @@ My academic journey at NYCU (EE) and self-driven projects have equipped me with 
 * **Game Development Fundamentals:** C++ based game logic and mechanics.
 * **Tools & Platforms:** GitHub, Vercel, VS Code, Linux Environment (implied from coursework)
 
-I am particularly interested in the intersection of efficient algorithms and practical software solutions. My experience with "資訊之芽培訓計畫算法班" (NTU's Information Future芽 Training Program - Algorithm Class) and various C++/APCS training has solidified my foundation in **Algorithms and Data Structures**, which I actively apply and document in my blog projects.
+I am particularly interested in the intersection of efficient algorithms and practical software solutions. My experience with "資訊之芽培訓計畫算法班" (NTU's Sprout Training Program - Algorithm Class) and various C++/APCS training has solidified my foundation in **Algorithms and Data Structures**, which I actively apply and document in my blog projects.
 
 ---
 
