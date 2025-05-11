@@ -1,10 +1,10 @@
 # 👋 Hi, I'm Peien Wu (吳沛恩)
 
-<a href="https://peienwu-blog-next.vercel.app/" target="_blank">
+<a href="https://peienwu.com/" target="_blank">
   <img src="URL_TO_YOUR_BLOG_HEADER_SCREENSHOT.png" alt="Peienwu's Code Lab Banner" width="700"/>
   </a>
 
-I'm a passionate and curious Software Engineering student at National Yang Ming Chiao Tung University (NYCU), currently diving deep into the world of modern web technologies and game development.
+I'm a passionate and curious Software Engineering student at National Yang Ming Chiao Tung University (NYCU), currently diving deep into the world of alorithm, data science and AI.
 
 I enjoy the process of learning, building, and demystifying complex systems. This GitHub profile serves as a "Code Lab" where I document my journey, projects, and explorations.
 
