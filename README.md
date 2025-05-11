@@ -1,82 +1,104 @@
-# 👋 Hi, I'm Peien Wu (吳沛恩)
+# 👋 Hello, I'm Peien Wu (吳沛恩)
 
-<a href="https://peienwu.com/" target="_blank">
-  <img src="URL_TO_YOUR_BLOG_HEADER_SCREENSHOT.png" alt="Peienwu's Code Lab Banner" width="700"/>
-  </a>
+<p align="center">
+  <a href="https://peienwu.com/" target="_blank">
+    <img src="https://raw.githubusercontent.com/gist/peienwu1216/your-gist-id-for-image/main/profile-banner-placeholder.png" alt="Peienwu - Main Portfolio/Blog" width="700"/>
+    </a>
+</p>
 
-I'm a passionate and curious Software Engineering student at National Yang Ming Chiao Tung University (NYCU), currently diving deep into the world of alorithm, data science and AI.
+I am a dedicated Electrical Engineering student at National Yang Ming Chiao Tung University (NYCU) with a strong passion for software engineering, particularly in **Game Development** and **Modern Web Technologies**. My approach to learning involves diving deep into concepts, applying them through hands-on projects, and sharing my findings.
 
-I enjoy the process of learning, building, and demystifying complex systems. This GitHub profile serves as a "Code Lab" where I document my journey, projects, and explorations.
+My primary online presence and established blog, featuring a collection of my technical articles, project showcases, and learning notes (including **Algorithms and Data Structures**), can be found at:
+**🌐 [peienwu.com](https://peienwu.com/)**
 
----
-
-## 🚀 My Current Focus & Projects
-
-Right now, I'm heavily invested in building and iterating on my personal tech blog:
-
-* 🎮 **[Peienwu's Code Lab (Next.js Version)](https://github.com/peienwu1216/peienwu-blog-next)**
-    * My new personal blog built with **Next.js (App Router), React, TypeScript, Contentlayer, and Tailwind CSS**.
-    * This is where I'm applying modern web development practices, sharing tech insights, and documenting my learning.
-    * Deployed on Vercel: [peienwu-blog-next.vercel.app](https://peienwu-blog-next.vercel.app/)
-    * *Status: Actively Developing & Learning*
+This GitHub profile documents my ongoing learning journey and project development.
 
 ---
 
-## 🛠️ Highlighted Projects & Coursework
+## 🚀 Spotlight Projects: Showcasing Practical Skills & Continuous Learning
 
-Here are some of the key projects and coursework that showcase my skills and learning experiences:
+Here are key projects that highlight my capabilities and commitment to growth:
 
 <table width="100%">
   <tr>
     <td width="50%" valign="top">
-      <h3>🕹️ CrazyArcade-CPP-Game</h3>
-      <p>A C++ based Bomberman-like game developed as a final project. This project allowed me to explore game logic, C++ programming, and fundamental game development concepts.</p>
+      <h3>🏆 Game Development Showcase: CrazyArcade-CPP-Game</h3>
+      <p>
+        This **C++ based Bomberman-like game** was a comprehensive final project demonstrating my ability to design, implement, and deliver a complete game. It involved developing core game mechanics, logic, and applying fundamental C++ programming principles in a practical game development context.
+      </p>
+      <p><em>This project underscores my foundational skills in C++ and my capacity for substantial project execution.</em></p>
       <p><strong>Tech Stack:</strong> C++</p>
-      <p>🔗 <a href="https://github.com/peienwu1216/CrazyArcade-CPP-Game">View Repository</a></p>
+      <p>🔗 <a href="https://github.com/peienwu1216/CrazyArcade-CPP-Game"><strong>Explore the Repository</strong></a></p>
       </td>
     <td width="50%" valign="top">
-      <h3>📝 Peienwu-Blog (Legacy - Hexo)</h3>
-      <p>My previous personal blog, created with Hexo. It served as an initial platform for sharing thoughts on tech, project showcases, and more. This project sparked my interest in web development and content creation.</p>
-      <p><strong>Tech Stack:</strong> Hexo, Stylus</p>
-      <p>🔗 <a href="https://github.com/peienwu1216/peienwu-blog">View Repository</a></p>
-      <p>🌐 <a href="https://peienwu.com">Visit Live Site (peienwu.com)</a></p>
+      <h3>💡 Current Exploration: Peienwu's Code Lab (Next.js Version)</h3>
+      <p>
+        As a testament to my commitment to continuous learning, I'm currently rebuilding my personal blog using a modern web stack: **Next.js (App Router), React, TypeScript, and Contentlayer**. This project, "Peienwu's Code Lab," serves as a platform for me to apply new web development techniques, further document my studies in **Algorithms, Data Structures**, and share insights into various technologies.
+      </p>
+      <p><em>This initiative demonstrates my proactive approach to mastering new tools and frameworks.</em></p>
+      <p><strong>Tech Stack:</strong> Next.js, React, TypeScript, Contentlayer, Tailwind CSS</p>
+      <p>🔗 <a href="https://github.com/peienwu1216/peienwu-blog-next">View In-Progress Repository</a></p>
+      <p>🚀 <a href="https://peienwu-blog-next.vercel.app/">Live Demo on Vercel</a></p>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3>🐍 OOP-Python-NYCU</h3>
-      <p>Coursework and contributions for the Object-Oriented Programming with Python course at NYCU. This involved practical application of OOP principles and Python programming skills.</p>
-      <p><strong>Tech Stack:</strong> Python</p>
-      <p>🔗 <a href="https://github.com/peienwu1216/oop-python-nycu">View Repository</a> (Forked)</p>
+      <h3>📝 Established Blog: Peienwu-Blog (Hexo)</h3>
+      <p>
+        My primary blog, hosted at <a href="https://peienwu.com">peienwu.com</a>, was built with Hexo. It contains numerous articles (over 280 as per my records) on tech topics, including notes on **Algorithms and Data Structures**, and has attracted a consistent readership. This site reflects my long-term dedication to learning and knowledge sharing.
+      </p>
+      <p><strong>Tech Stack:</strong> Hexo, Stylus, Markdown</p>
+      <p>🔗 <a href="https://github.com/peienwu1216/peienwu-blog">View Repository</a></p>
     </td>
     <td width="50%" valign="top">
-      <h3>💡 More Explorations</h3>
-      <p>I'm always working on smaller experiments and learning new things. Keep an eye on my repositories for more!</p>
+      <h3>🐍 Object-Oriented Programming (Python - NYCU)</h3>
+      <p>
+        This repository showcases my coursework for the Object-Oriented Programming with Python course at NYCU. It includes practical exercises and contributions demonstrating my understanding of OOP principles and proficiency in Python.
+      </p>
+      <p><strong>Tech Stack:</strong> Python</p>
+      <p>🔗 <a href="https://github.com/peienwu1216/oop-python-nycu">View Repository (Fork)</a></p>
     </td>
   </tr>
 </table>
 
 ---
 
-## 🌱 My Learning & Tech Stack
+## 🛠️ Technical Skills & Proficiencies
 
-I'm constantly learning and expanding my skillset. Here are some of the technologies I've been working with:
+My academic journey at NYCU (EE) and self-driven projects have equipped me with the following skills:
 
-* **Languages:** TypeScript, JavaScript, Python, C++
-* **Web Development:** Next.js, React, Tailwind CSS, HTML, CSS, Node.js, MDX, Contentlayer
-* **Game Development:** C++ (Core Concepts)
-* **Tools & Platforms:** Git, GitHub, Vercel, VS Code
-* **Concepts:** Object-Oriented Programming (OOP), Data Structures, Algorithms, Web Performance, CI/CD
+* **Programming Languages:** C++, Python, TypeScript, JavaScript
+* **Web Development:**
+    * **Frontend:** React, Next.js, HTML, CSS, Tailwind CSS
+    * **Content Management:** MDX, Contentlayer, Hexo
+* **Software Engineering Concepts:** Object-Oriented Programming (OOP), Data Structures, Algorithms, Version Control (Git)
+* **Game Development Fundamentals:** C++ based game logic and mechanics.
+* **Tools & Platforms:** GitHub, Vercel, VS Code, Linux Environment (implied from coursework)
+
+I am particularly interested in the intersection of efficient algorithms and practical software solutions. My experience with "資訊之芽培訓計畫算法班" (NTU's Information Future芽 Training Program - Algorithm Class) and various C++/APCS training has solidified my foundation in **Algorithms and Data Structures**, which I actively apply and document in my blog projects.
 
 ---
 
-## 💬 Let's Connect!
+## 🌱 Learning & Growth
 
-I'm always open to discussing new technologies, project ideas, or just connecting with fellow developers and learners.
+I am a firm believer in continuous learning and self-improvement. My activities reflect this:
 
+* Completed advanced training in C++ and Data Structures/Algorithms (NTU System Training courses).
+* Successfully completed two stages of NTU's "資訊之芽培訓計畫算法班".
+* Active participation in programming competitions (NPSC, YTP).
+* Experience in research and report writing (VPython simulations, 小論文競賽優等).
+* Proven ability to self-learn and apply new technologies (e.g., Next.js, Contentlayer, Manim for math animations).
+
+---
+
+## 💬 Connect with Me
+
+I'm always keen to discuss technology, projects, or opportunities for collaboration.
+
+* **Primary Blog & Portfolio:** [peienwu.com](https://peienwu.com/)
+* **Current Learning Blog (Next.js):** [Peienwu's Code Lab on Vercel](https://peienwu-blog-next.vercel.app/)
 * **Email:** `peienwu.ee13@nycu.edu.tw`
-**Blog:** [Peienwu's Blog](https://peienwu.com)
 
 ---
 
-Thanks for visiting my Code Lab!
+Thank you for visiting my profile. I am eager to apply my skills and continue learning in challenging environments.
