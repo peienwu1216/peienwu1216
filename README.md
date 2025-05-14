@@ -6,12 +6,13 @@
   </a>
 </p>
 
-I am a dedicated Electrical Engineering student at National Yang Ming Chiao Tung University (NYCU) with a strong passion for software engineering, particularly in **Game Development** and **Modern Web Technologies**. My approach to learning involves diving deep into concepts, applying them through hands-on projects, and sharing my findings.
+I am a dedicated Electrical Engineering student at National Yang Ming Chiao Tung University (NYCU) with a broad and strong passion for software engineering. At the core of this passion is a deep interest in **Algorithms and Data Structures**, which I believe are fundamental to building robust and efficient software. My learning methodology involves in-depth conceptual understanding, practical application through hands-on projects, and sharing my insights.
 
-My primary online presence and established blog, featuring a collection of my technical articles, project showcases, and learning notes (including **Algorithms and Data Structures**), can be found at:
-**🌐 [peienwu.com](https://peienwu.com/)**
+While I enjoy exploring various facets of software development, including Game Development and Modern Web Technologies as side projects, my technical blog and much of my focused study revolve around **algorithmic problem-solving** and **data structure implementation**.
 
-This GitHub profile documents my ongoing learning journey and project development.
+My primary online presence and established blog, showcasing technical articles, project highlights, and learning notes (especially on Algorithms and Data Structures), is at: 🌐 peienwu.com
+
+This GitHub profile reflects my continuous learning journey and diverse project work.
 
 ---
 
