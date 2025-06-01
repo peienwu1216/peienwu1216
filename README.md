@@ -85,7 +85,7 @@ I am a firm believer in continuous learning and self-improvement. My activities 
 
 * Successfully completed two stages of NTU's "資訊之芽培訓計畫算法班".
 * Active participation in programming competitions (NPSC, YTP).
-* Completed advanced training in C++ and Data Structures/Algorithms (NTU System Training courses).
+* Completed advanced training in C++ and Data Structures/Algorithms (NTU Information System Training program).
 * Lecturer for "建中資訊讀書會" (Information Study Group in CKHS), teaching Computational Geometry.
 * Experience in research and report writing (VPython simulations, 小論文競賽優等).
 * Proven ability to self-learn and apply new technologies (e.g., Next.js, Contentlayer, Manim for math animations).
