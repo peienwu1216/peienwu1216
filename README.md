@@ -1,5 +1,11 @@
 # 👋 Hello, I'm Peien Wu (吳沛恩)
 
+<p align="left">
+  <a href="https://peienwu.com/" target="_blank"><img alt="Website" src="https://img.shields.io/badge/Website-peienwu.com-3b74d7?style=for-the-badge&logo=About.me&logoColor=white"></a>&nbsp;&nbsp;
+  <a href="https://peienwu-blog-next.vercel.app/" target="_blank"><img alt="Blog" src="https://img.shields.io/badge/Blog-Code%20Lab-000000?style=for-the-badge&logo=Vercel&logoColor=white"></a>&nbsp;&nbsp;
+  <a href="mailto:peien.wu1216@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Gmail-peien.wu1216-EA4335?style=for-the-badge&logo=gmail&logoColor=white"></a>
+</p>
+
 <p align="center">
   <a href="https://peienwu-blog-next.vercel.app/" target="_blank">
     <img src="https://github.com/user-attachments/assets/eedd47d9-0047-4ae1-be41-5bb56a7e69c5" alt="Peienwu - Main Portfolio/Blog" width="700"/>
@@ -23,7 +29,21 @@ Here are key projects that highlight my capabilities and commitment to growth:
 <table width="100%">
   <tr>
     <td width="50%" valign="top">
-      <h3>🏆 Game Development Showcase: CrazyArcade-CPP-Game</h3>
+      <h3>🏆 Team Project: Full-Cycle Software Engineering</h3>
+      <p>
+        In a <strong>three-person team</strong>, we engineered <em>Pycade Bomber</em>, a project that transcends typical coursework by implementing a professional, full-cycle development workflow.
+      </p>
+      <ul>
+          <li><strong>Intelligent AI:</strong> Designed four distinct AI opponent types using a <strong>Finite State Machine (FSM)</strong> for tactical decisions  and <strong>A*/BFS algorithms</strong> for pathfinding.</li>
+          <li><strong>CI/CD for Live Gameplay:</strong> Implemented a CI pipeline for automated quality checks (Pytest, flake8)  and a CD workflow that automatically builds and deploys the project, <strong>enabling live, online gameplay of the latest version on GitHub Pages</strong>.</li>
+          <li><strong>Industry-Standard Workflow:</strong> Enforced a strict Git workflow with protected branches , mandatory <strong>Pull Requests</strong>, and collaborative <strong>Code Reviews</strong> for quality assurance.</li>
+      </ul>
+      <p><em>This project is a cornerstone of my application for transfer to NTU CSIE, proving my ability to lead and collaborate in a team to deliver high-quality, maintainable software.</em></p>
+      <p><strong>Tech Stack:</strong> Python, Pygame, OOP, FSM, CI/CD, GitHub Actions, Pytest</p>
+      <p>🔗 <a href="https://github.com/peienwu1216/oop-2025-proj-pycade"><strong>Explore the Repository</strong></a></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🎮 Game Development Showcase: CrazyArcade-CPP-Game</h3>
       <p>
         This <strong>C++ based Bomberman-like game</strong> was a comprehensive final project demonstrating my ability to design, implement, and deliver a complete game. It involved developing core game mechanics, logic, and applying fundamental C++ programming principles in a practical game development context.
       </p>
@@ -31,6 +51,8 @@ Here are key projects that highlight my capabilities and commitment to growth:
       <p><strong>Tech Stack:</strong> C++</p>
       <p>🔗 <a href="https://github.com/peienwu1216/CrazyArcade-CPP-Game"><strong>Explore the Repository</strong></a></p>
     </td>
+  </tr>
+  <tr>
     <td width="50%" valign="top">
       <h3>💡 Current Exploration: Peienwu's Code Lab (Next.js Version)</h3>
       <p>
@@ -41,8 +63,6 @@ Here are key projects that highlight my capabilities and commitment to growth:
       <p>🔗 <a href="https://github.com/peienwu1216/peienwu-blog-next"><strong>View In-Progress Repository</strong></a></p>
       <p>🚀 <a href="https://peienwu-blog-next.vercel.app/"><strong>Live Demo on Vercel</strong></a></p>
     </td>
-  </tr>
-  <tr>
     <td width="50%" valign="top">
       <h3>📝 Established Blog: Peienwu-Blog (Hexo)</h3>
       <p>
@@ -51,7 +71,9 @@ Here are key projects that highlight my capabilities and commitment to growth:
       <p><strong>Tech Stack:</strong> Hexo, Stylus, Markdown</p>
       <p>🔗 <a href="https://github.com/peienwu1216/peienwu-blog"><strong>View Repository</strong></a></p>
     </td>
-    <td width="50%" valign="top">
+  </tr>
+  <tr>
+    <td colspan="2" valign="top">
       <h3>🐍 Object-Oriented Programming (Python - NYCU)</h3>
       <p>
         This NYCU OOP Python repository showcases my <strong>Python and OOP skills</strong>, alongside my <strong>Git workflow experience</strong>. Lecture exercises were committed and submitted via Pull Requests from our group's folder for merging into the professor's main repository, building practical skills in version control and collaborative code integration.
@@ -65,7 +87,7 @@ Here are key projects that highlight my capabilities and commitment to growth:
 
 ## 🛠️ Technical Skills & Proficiencies
 
-My academic journey at NYCU (EE) and self-driven projects have equipped me with the following skills:
+Through my academic training at NYCU and independent projects, I’ve developed practical proficiencies in the following areas:
 
 * **Programming Languages:** C++, Python
 * **Software Engineering Concepts:** Object-Oriented Programming (OOP), Data Structures, Algorithms, Version Control (Git)
