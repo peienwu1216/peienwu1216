@@ -38,7 +38,6 @@ Here are key projects that highlight my capabilities and commitment to growth:
           <li><strong>CI/CD for Live Gameplay:</strong> Implemented a CI pipeline for automated quality checks (Pytest, flake8)  and a CD workflow that automatically builds and deploys the project, <strong>enabling live, online gameplay of the latest version on GitHub Pages</strong>.</li>
           <li><strong>Industry-Standard Workflow:</strong> Enforced a strict Git workflow with protected branches , mandatory <strong>Pull Requests</strong>, and collaborative <strong>Code Reviews</strong> for quality assurance.</li>
       </ul>
-      <p><em>This project is a cornerstone of my application for transfer to NTU CSIE, proving my ability to lead and collaborate in a team to deliver high-quality, maintainable software.</em></p>
       <p><strong>Tech Stack:</strong> Python, Pygame, OOP, FSM, CI/CD, GitHub Actions, Pytest</p>
       <p>🔗 <a href="https://github.com/peienwu1216/oop-2025-proj-pycade"><strong>Explore the Repository</strong></a></p>
     </td>
