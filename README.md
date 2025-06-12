@@ -82,6 +82,7 @@ Here are key projects that highlight my capabilities and commitment to growth:
     </td>
   </tr>
 </table>
+
 ---
 
 ## 🛠️ Technical Skills & Proficiencies
@@ -96,7 +97,7 @@ Through my academic training at NYCU and independent projects, I’ve developed 
     * **Content Management:** MDX, Hexo
 * **Game Development Fundamentals:** C++ based game logic and mechanics.
 
-I am particularly interested in the intersection of efficient algorithms and practical software solutions. My experience with "資訊之芽培訓計畫算法班" (NTU's Sprout Training Program - Algorithm Class) and various C++/APCS training has solidified my foundation in **Algorithms and Data Structures**, which I actively apply and document in my blog projects.
+I am particularly interested in the intersection of efficient algorithms and practical software solutions. My experience with "**資訊之芽培訓計畫算法班**" (NTU's Sprout Training Program - Algorithm Class) and various C++/APCS training has solidified my foundation in **Algorithms and Data Structures**, which I actively apply and document in my blog projects.
 
 ---
 
@@ -104,7 +105,7 @@ I am particularly interested in the intersection of efficient algorithms and pra
 
 I am a firm believer in continuous learning and self-improvement. My activities reflect this:
 
-* Successfully completed two stages of NTU's "資訊之芽培訓計畫算法班".
+* Successfully completed two stages of NTU's "**資訊之芽培訓計畫算法班**".
 * Active participation in programming competitions (NPSC, YTP).
 * Completed advanced training in C++ and Data Structures/Algorithms (NTU Information System Training program).
 * Lecturer for "建中資訊讀書會" (Information Study Group in CKHS), teaching Computational Geometry.
