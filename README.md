@@ -12,7 +12,7 @@
   </a>
 </p>
 
-I am a dedicated Electrical Engineering student at National Yang Ming Chiao Tung University (NYCU) with a broad and strong passion for software engineering. At the core of this passion is a deep interest in **Algorithms and Data Structures**, which I believe are fundamental to building robust and efficient software. My learning methodology involves in-depth conceptual understanding, practical application through hands-on projects, and sharing my insights.
+I am an enthusiastic Electrical Engineering student at National Yang Ming Chiao Tung University (NYCU) with a broad and strong passion for software engineering. At the core of this passion is a deep interest in **Algorithms and Data Structures**, which I believe are fundamental to building robust and efficient software. My learning methodology involves in-depth conceptual understanding, practical application through hands-on projects, and sharing my insights.
 
 While I enjoy exploring various facets of software development, including Game Development and Modern Web Technologies as side projects, my technical blog and much of my focused study revolve around **algorithmic problem-solving** and **data structure implementation**.
 
