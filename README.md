@@ -34,13 +34,32 @@ Here are key projects that highlight my capabilities and commitment to growth:
         In a <strong>three-person team</strong>, we engineered <em>Pycade Bomber</em>, a project that transcends typical coursework by implementing a professional, full-cycle development workflow.
       </p>
       <ul>
-          <li><strong>Intelligent AI:</strong> Designed four distinct AI opponent types using a <strong>Finite State Machine (FSM)</strong> for tactical decisions  and <strong>A*/BFS algorithms</strong> for pathfinding.</li>
-          <li><strong>CI/CD for Live Gameplay:</strong> Implemented a CI pipeline for automated quality checks (Pytest, flake8)  and a CD workflow that automatically builds and deploys the project, <strong>enabling live, online gameplay of the latest version on GitHub Pages</strong>.</li>
-          <li><strong>Industry-Standard Workflow:</strong> Enforced a strict Git workflow with protected branches , mandatory <strong>Pull Requests</strong>, and collaborative <strong>Code Reviews</strong> for quality assurance.</li>
+        <li><strong>Intelligent AI:</strong> Designed four distinct AI opponent types using a <strong>Finite State Machine (FSM)</strong> for tactical decisions and <strong>A*/BFS algorithms</strong> for pathfinding.</li>
+        <li><strong>CI/CD for Live Gameplay:</strong> Implemented a CI pipeline for automated quality checks (Pytest, flake8) and a CD workflow that automatically builds and deploys the project, <strong>enabling live, online gameplay of the latest version on GitHub Pages</strong>.</li>
+        <li><strong>Industry-Standard Workflow:</strong> Enforced a strict Git workflow with protected branches, mandatory <strong>Pull Requests</strong>, and collaborative <strong>Code Reviews</strong> for quality assurance.</li>
       </ul>
       <p><strong>Tech Stack:</strong> Python, Pygame, OOP, FSM, CI/CD, GitHub Actions, Pytest</p>
       <p>🔗 <a href="https://github.com/peienwu1216/oop-2025-proj-pycade"><strong>Explore the Repository</strong></a></p>
     </td>
+    <td width="50%" valign="top">
+      <h3>💡 Flagship Project: Peienwu's Code Lab</h3>
+      <p>
+        My personal website, engineered from the ground up as a feature-rich, full-stack web application to serve as my new digital home and professional portfolio.
+      </p>
+      <ul>
+        <li><strong>Professional Search:</strong> Built a client-side search engine with <strong>FlexSearch.js</strong>, featuring build-time indexing, weighted fields, and context-aware query processing.</li>
+        <li><strong>Full-Stack API Integration:</strong> Developed Next.js API Routes to securely fetch real-time data (project stars, development tasks) from the GitHub API, complete with <strong>intelligent caching strategies</strong>.</li>
+        <li><strong>Application-Grade UX:</strong> Implemented a <strong>`⌘+K` command palette</strong> with nested menus and a dynamic, scroll-spy Table of Contents to create a best-in-class user experience.</li>
+      </ul>
+      <p>
+        <em>This project showcases my passion for turning complex technical challenges into elegant, user-friendly solutions.</em>
+      </p>
+      <p><strong>Tech Stack:</strong> Next.js, React, TypeScript, Tailwind CSS, Contentlayer, FlexSearch.js, Vercel</p>
+      <p>🔗 <a href="https://github.com/peienwu1216/peienwu-blog-next"><strong>Explore the Repository</strong></a></p>
+      <p>🚀 <a href="https://peienwu.com/"><strong>Live Site & Portfolio</strong></a></p>
+    </td>
+  </tr>
+  <tr>
     <td width="50%" valign="top">
       <h3>🎮 Game Development Showcase: CrazyArcade-CPP-Game</h3>
       <p>
@@ -49,18 +68,6 @@ Here are key projects that highlight my capabilities and commitment to growth:
       <p><em>This project underscores my foundational skills in C++ and my capacity for substantial project execution.</em></p>
       <p><strong>Tech Stack:</strong> C++</p>
       <p>🔗 <a href="https://github.com/peienwu1216/CrazyArcade-CPP-Game"><strong>Explore the Repository</strong></a></p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>💡 Current Exploration: Peienwu's Code Lab (Next.js Version)</h3>
-      <p>
-        As a testament to my commitment to continuous learning, I'm currently rebuilding my personal blog using a modern web stack: <strong>Next.js (App Router), React, TypeScript, and Contentlayer</strong>. This project, "Peienwu's Code Lab," serves as a platform for me to apply new web development techniques, further document my studies in <strong>Algorithms, Data Structures</strong>, and share insights into various technologies.
-      </p>
-      <p><em>This initiative demonstrates my proactive approach to mastering new tools and frameworks.</em></p>
-      <p><strong>Tech Stack:</strong> Next.js, React, TypeScript, Contentlayer, Tailwind CSS</p>
-      <p>🔗 <a href="https://github.com/peienwu1216/peienwu-blog-next"><strong>View In-Progress Repository</strong></a></p>
-      <p>🚀 <a href="https://peienwu-blog-next.vercel.app/"><strong>Live Demo on Vercel</strong></a></p>
     </td>
     <td width="50%" valign="top">
       <h3>📝 Established Blog: Peienwu-Blog (Hexo)</h3>
