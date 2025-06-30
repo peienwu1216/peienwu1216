@@ -56,7 +56,7 @@ Here are key projects that highlight my capabilities and commitment to growth:
       </p>
       <p><strong>Tech Stack:</strong> Next.js, React, TypeScript, Tailwind CSS, Contentlayer, FlexSearch.js, Vercel</p>
       <p>🔗 <a href="https://github.com/peienwu1216/peienwu-blog-next"><strong>Explore the Repository</strong></a></p>
-      <p>🚀 <a href="https://peienwu.com/"><strong>Live Site & Portfolio</strong></a></p>
+      <p>🚀 <a href="https://peienwu-blog-next.vercel.app/"><strong>Live Site & Portfolio</strong></a></p>
     </td>
   </tr>
   <tr>
