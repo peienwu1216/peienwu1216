@@ -38,23 +38,27 @@ Here are key projects that highlight my capabilities and commitment to growth:
         <li><strong>CI/CD for Live Gameplay:</strong> Implemented a CI pipeline for automated quality checks (Pytest, flake8) and a CD workflow that automatically builds and deploys the project, <strong>enabling live, online gameplay of the latest version on GitHub Pages</strong>.</li>
         <li><strong>Industry-Standard Workflow:</strong> Enforced a strict Git workflow with protected branches, mandatory <strong>Pull Requests</strong>, and collaborative <strong>Code Reviews</strong> for quality assurance.</li>
       </ul>
+      <p>
+        <em>This project showcases my ability to not only apply complex algorithms in a practical setting but also to drive team collaboration through industry-standard engineering practices.
+      </p>
       <p><strong>Tech Stack:</strong> Python, Pygame, OOP, FSM, CI/CD, GitHub Actions, Pytest</p>
       <p>🔗 <a href="https://github.com/peienwu1216/oop-2025-proj-pycade"><strong>Explore the Repository</strong></a></p>
     </td>
     <td width="50%" valign="top">
       <h3>💡 Flagship Project: Peienwu's Code Lab</h3>
       <p>
-        My personal website, engineered from the ground up as a feature-rich, full-stack web application to serve as my new digital home and professional portfolio.
+        My personal portfolio: an AI-native, full-stack application engineered from the ground up to deliver intelligent and data-driven user experiences.
       </p>
       <ul>
-        <li><strong>Professional Search:</strong> Built a client-side search engine with <strong>FlexSearch.js</strong>, featuring build-time indexing, weighted fields, and context-aware query processing.</li>
-        <li><strong>Full-Stack API Integration:</strong> Developed Next.js API Routes to securely fetch real-time data (project stars, development tasks) from the GitHub API, complete with <strong>intelligent caching strategies</strong>.</li>
-        <li><strong>Application-Grade UX:</strong> Implemented a <strong>`⌘+K` command palette</strong> with nested menus and a dynamic, scroll-spy Table of Contents to create a best-in-class user experience.</li>
+        <li><strong>AI-Powered Digital Twin & Q&A:</strong> Engineered a "Digital Twin" of myself by injecting a <strong>comprehensive knowledge base</strong> (including all my articles and project data) directly into the AI's context. This enables a conversational AI to answer complex, cross-domain questions about my work.</li>
+    <li><strong>Intelligent Search Engine:</strong> Built a professional-grade client-side search engine with <strong>FlexSearch.js</strong>, featuring build-time indexing, weighted fields, and context-aware query processing for highly relevant results.</li>
+    <li><strong>Dynamic, API-Driven Dashboards:</strong> Developed Next.js API Routes with <strong>intelligent caching strategies (ISR)</strong> to securely fetch and display real-time data from the GitHub API, powering features like the `⌘+K` command palette and live project statistics.</li>
+</ul>
       </ul>
       <p>
-        <em>This project showcases my passion for turning complex technical challenges into elegant, user-friendly solutions.</em>
+        <em>This project showcases my ability to not only build robust software, but to architect intelligent systems that learn and interact.</em>
       </p>
-      <p><strong>Tech Stack:</strong> Next.js, React, TypeScript, Tailwind CSS, Contentlayer, FlexSearch.js, Vercel</p>
+      <p><strong>Tech Stack:</strong> Next.js, React, TypeScript, Tailwind CSS, Contentlayer, **Gemini API**, FlexSearch.js, Vercel</p>
       <p>🔗 <a href="https://github.com/peienwu1216/peienwu-blog-next"><strong>Explore the Repository</strong></a></p>
       <p>🚀 <a href="https://peienwu-blog-next.vercel.app/"><strong>Live Site & Portfolio</strong></a></p>
     </td>
