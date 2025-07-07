@@ -16,7 +16,7 @@ I am a committed Electrical Engineering student at National Yang Ming Chiao Tung
 
 While I enjoy exploring various facets of software development, including Game Development and Modern Web Technologies as side projects, my technical blog and much of my focused study revolve around **algorithmic problem-solving** and **data structure implementation**.
 
-My primary online presence and established blog, showcasing technical articles, project highlights, and learning notes (especially on Algorithms and Data Structures), is at: 🌐 peienwu.com
+My primary online presence and established blog, showcasing technical articles, project highlights, and learning notes (especially on Algorithms and Data Structures), is at: 🌐 peienwu.com, 🔗 peienwu-blog-next.vercel.app
 
 This GitHub profile reflects my continuous learning journey and diverse project work.
 
