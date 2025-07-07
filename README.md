@@ -50,10 +50,13 @@ Here are key projects that highlight my capabilities and commitment to growth:
         My personal portfolio: an AI-native, full-stack application engineered from the ground up to deliver intelligent and data-driven user experiences.
       </p>
       <ul>
-        <li><strong>AI-Powered Digital Twin & Q&A:</strong> Engineered a "Digital Twin" of myself by injecting a <strong>comprehensive knowledge base</strong> (including all my articles and project data) directly into the AI's context. This enables a conversational AI to answer complex, cross-domain questions about my work.</li>
-    <li><strong>Intelligent Search Engine:</strong> Built a professional-grade client-side search engine with <strong>FlexSearch.js</strong>, featuring build-time indexing, weighted fields, and context-aware query processing for highly relevant results.</li>
-    <li><strong>Dynamic, API-Driven Dashboards:</strong> Developed Next.js API Routes with <strong>intelligent caching strategies (ISR)</strong> to securely fetch and display real-time data from the GitHub API, powering features like the `⌘+K` command palette and live project statistics.</li>
-</ul>
+        <ul>
+            <li><strong>AI Digital Twin:</strong> Engineered a conversational AI capable of answering complex, cross-domain questions by injecting a comprehensive knowledge base of my work (articles, projects) into the model's context at runtime.</li>
+            <li><strong>🎵 Shared Music Experience:</strong> Architected a real-time, cross-device "party mode" with the Spotify Web Playback SDK, managed by a custom backend logic that uses <strong>atomic operations</strong> (via Vercel KV) to handle race conditions and ensure state consistency.</li>
+            <li><strong>Intelligent Search Engine:</strong> Built a professional-grade, client-side search with <strong>FlexSearch.js</strong>, featuring build-time indexing and weighted, context-aware query processing for highly relevant results.</li>
+            <li><strong>API-Driven Dashboards:</strong> Developed Next.js API Routes with <strong>intelligent caching (ISR)</strong> to securely display real-time GitHub data, powering the `⌘+K` command center and live project statistics.</li>
+        </ul>
+        </ul>
       </ul>
       <p>
         <em>This project showcases my ability to not only build robust software, but to architect intelligent systems that learn and interact.</em>
