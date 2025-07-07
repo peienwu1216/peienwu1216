@@ -61,7 +61,7 @@ Here are key projects that highlight my capabilities and commitment to growth:
       <p>
         <em>This project showcases my ability to not only build robust software, but to architect intelligent systems that learn and interact.</em>
       </p>
-      <p><strong>Tech Stack:</strong> Next.js, React, TypeScript, Tailwind CSS, Contentlayer, **Gemini API**, FlexSearch.js, Vercel</p>
+      <p><strong>Tech Stack:</strong> Next.js, React, TypeScript, Tailwind CSS, Contentlayer, Gemini API, FlexSearch.js, Vercel</p>
       <p>🔗 <a href="https://github.com/peienwu1216/peienwu-blog-next"><strong>Explore the Repository</strong></a></p>
       <p>🚀 <a href="https://peienwu-blog-next.vercel.app/"><strong>Live Site & Portfolio</strong></a></p>
     </td>
