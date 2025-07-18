@@ -50,12 +50,10 @@ Here are key projects that highlight my capabilities and commitment to growth:
         My personal portfolio: an AI-native, full-stack application engineered from the ground up to deliver intelligent and data-driven user experiences.
       </p>
       <ul>
-        <ul>
             <li><strong>AI Digital Twin:</strong> Engineered a conversational AI capable of answering complex, cross-domain questions by injecting a comprehensive knowledge base of my work (articles, projects) into the model's context at runtime.</li>
             <li><strong>🎵 Shared Music Experience:</strong> Architected a real-time, cross-device "party mode" with the Spotify Web Playback SDK, managed by a custom backend logic that uses <strong>atomic operations</strong> (via Vercel KV) to handle race conditions and ensure state consistency.</li>
             <li><strong>Intelligent Search Engine:</strong> Built a professional-grade, client-side search with <strong>FlexSearch.js</strong>, featuring build-time indexing and weighted, context-aware query processing for highly relevant results.</li>
             <li><strong>API-Driven Dashboards:</strong> Developed Next.js API Routes with <strong>intelligent caching (ISR)</strong> to securely display real-time GitHub data, powering the `⌘+K` command center and live project statistics.</li>
-        </ul>
         </ul>
       </ul>
       <p>
