@@ -6,12 +6,6 @@
   <a href="mailto:peien.wu1216@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Gmail-peien.wu1216-EA4335?style=for-the-badge&logo=gmail&logoColor=white"></a>
 </p>
 
-<p align="center">
-  <a href="https://peienwu-blog-next.vercel.app/" target="_blank">
-    <img src="https://github.com/user-attachments/assets/eedd47d9-0047-4ae1-be41-5bb56a7e69c5" alt="Peienwu - Main Portfolio/Blog" width="700"/>
-  </a>
-</p>
-
 I am a committed Electrical Engineering student at National Yang Ming Chiao Tung University (NYCU) with a broad and strong passion for software engineering. At the core of this passion is a deep interest in **Algorithms and Data Structures**, which I believe are fundamental to building robust and efficient software. My learning methodology involves in-depth conceptual understanding, practical application through hands-on projects, and sharing my insights.
 
 While I enjoy exploring various facets of software development, including Game Development and Modern Web Technologies as side projects, my technical blog and much of my focused study revolve around **algorithmic problem-solving** and **data structure implementation**.
